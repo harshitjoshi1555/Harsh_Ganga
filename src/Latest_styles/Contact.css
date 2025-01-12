@@ -1,0 +1,13 @@
+/* src/pages/Contact.css */
+
+.contact {
+  @apply p-8 text-center bg-white shadow-md;
+}
+
+h1 {
+  @apply text-3xl font-bold text-green-600;
+}
+
+p {
+  @apply text-lg text-gray-700;
+}

@@ -1,0 +1,13 @@
+/* src/pages/Home.css */
+
+.home {
+  @apply p-8 text-center bg-blue-100;
+}
+
+h1 {
+  @apply text-3xl font-bold text-blue-600;
+}
+
+p {
+  @apply text-lg text-gray-700;
+}
